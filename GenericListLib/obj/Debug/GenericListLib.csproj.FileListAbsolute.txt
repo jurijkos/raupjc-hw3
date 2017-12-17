@@ -1,0 +1,12 @@
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\obj\Debug\GenericListLib.csprojResolveAssemblyReference.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\obj\Debug\GenericListLib.csproj.CoreCompileInputs.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\bin\Debug\GenericListLib.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\bin\Debug\GenericListLib.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\obj\Debug\GenericListLib.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw1\KonzolnaAplikacija2\GenericListLib\obj\Debug\GenericListLib.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\bin\Debug\GenericListLib.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\bin\Debug\GenericListLib.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\obj\Debug\GenericListLib.csprojResolveAssemblyReference.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\obj\Debug\GenericListLib.csproj.CoreCompileInputs.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\obj\Debug\GenericListLib.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\GenericListLib\obj\Debug\GenericListLib.pdb

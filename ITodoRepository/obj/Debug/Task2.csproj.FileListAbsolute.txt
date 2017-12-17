@@ -1,0 +1,8 @@
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\bin\Debug\Task2.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\bin\Debug\Task2.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\bin\Debug\GenericListLib.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\bin\Debug\GenericListLib.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\obj\Debug\Task2.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw2\Raupjc-hw2\Task2\obj\Debug\Task2.pdb

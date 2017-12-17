@@ -1,0 +1,11 @@
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\TodoSqlRepository.dll.config
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\TodoSqlRepository.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\TodoSqlRepository.pdb
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\EntityFramework.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\EntityFramework.SqlServer.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\EntityFramework.xml
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\bin\Debug\EntityFramework.SqlServer.xml
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\obj\Debug\TodoSqlRepository.csprojResolveAssemblyReference.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\obj\Debug\TodoSqlRepository.csproj.CoreCompileInputs.cache
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\obj\Debug\TodoSqlRepository.dll
+F:\jurij\programiranje\vsprojects\raupjc-hw3\TodoSqlRepository\obj\Debug\TodoSqlRepository.pdb
