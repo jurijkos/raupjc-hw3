@@ -1,0 +1,27 @@
+﻿@using TodoRepository
+@model List<TodoItem>
+
+@{
+    ViewBag.Title = "Todos";
+    Layout = "_Layout";
+}
+
+<h2>Active Todo</h2>
+
+<div>
+    <a asp-action="Add">Add new todo <span class="glyphicon glyphicon-plus-sign"></span></a> &nbsp;
+    <a asp-action="Completed">See completed todos <span class="glyphicon glyphicon-tasks"></span></a>
+</div>
+
+<div class="list-group">
+    @foreach (var todoItem in Model)
+    {
+        <div>
+            @todoItem.Text
+            <span class="label label-info"> @todoItem.DateCreated.ToLocalTime().ToLongDateString()</span> &nbsp;
+            <a asp-action="CompleteTodo" asp-route-todoId="@todoItem.Id" title="Mark as completed">
+                <span class="glyphicon glyphicon-ok-sign"></span>
+            </a>
+        </div>
+    }
+</div>

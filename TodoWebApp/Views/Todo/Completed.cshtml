@@ -1,0 +1,26 @@
+﻿@using System.Threading.Tasks
+@using TodoRepository
+@model List<TodoItem>
+
+@{
+    ViewBag.Title = "Completed todos";
+    Layout = "_Layout";
+}
+
+<h2>Completed todos</h2>
+
+<div class="list-group">
+    @foreach (var todoItem in Model)
+    {
+        <div>
+            @todoItem.Text
+            <span class="label label-info"> Date created: @todoItem.DateCreated.ToLocalTime().ToLongDateString()</span> &nbsp;
+            <span class="label label-success"> Date completed: @todoItem.DateCompleted.GetValueOrDefault().ToLocalTime().ToLongDateString()</span> &nbsp;
+            <span class="glyphicon glyphicon-ok-sign" style="color: green"></span>
+        </div>
+    }
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-default">Back</a>
+</div>
