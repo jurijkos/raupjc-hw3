@@ -8,9 +8,16 @@ namespace TodoWebApp.Controllers
 {
     public class TodoController : Controller
     {
-        public IActionResult Index()
+        // GET: /Todo
+        public string Index()
         {
-            return View();
+            return "This is my default action...";
+        }
+        //
+        //GET: /Todo/Welcome
+        public string Welcome()
+        {
+            return "This is the welcome action method...";
         }
     }
 }
